@@ -1,4 +1,4 @@
-# Memory-GAME-
+# MEMORY - GAME - PROJECT
 This project is a classic memory game implemented using HTML, CSS, and JavaScript. The game presents a grid of cards faced down, and the player's objective is to find matching pairs by flipping them over. It tests the player's memory and cognitive skills.
 
 **How to Play**
