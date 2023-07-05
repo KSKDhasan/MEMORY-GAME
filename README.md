@@ -10,6 +10,12 @@ If the symbols on the two cards match, they will remain face up. Otherwise, they
 Continue flipping cards and trying to find all matching pairs.
 The game ends when all pairs have been found, and a success message will be displayed.
 
+Preview:
+![image](https://github.com/KSKDhasan/MEMORY-GAME/assets/130535979/b027bda3-f032-4bb1-80b3-8fa5f24ff197)
+![image](https://github.com/KSKDhasan/MEMORY-GAME/assets/130535979/90152e9f-82d6-4d58-8477-1fd874c8817a)
+![image](https://github.com/KSKDhasan/MEMORY-GAME/assets/130535979/c05c8d79-5c5e-409c-a7c1-45bef881fbd1)
+![image](https://github.com/KSKDhasan/MEMORY-GAME/assets/130535979/608411f3-a33f-4bcc-b430-809f089ad5b0)
+
 **Project Structure**
 index.html: Contains the structure and layout of the game interface.
 style.css: Defines the styles and visual appearance of the game.
